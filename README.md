@@ -1,14 +1,21 @@
-## Imersão de Dados - Alura
+## Introdução à Ciência de Dados
+
+<img src="https://www.alura.com.br/assets/img/imersoes/general/og-imersao-alura.1595534856.png" float="center"/>
 
 ### Apresentação
 
 Aulas realizadas nos dias 19/10/2020 até 23/10/2020
 
-[Aula 01](https://www.alura.com.br/imersao-dados/aula01-educacao-no-brasil) - Educação no Brasil
+#### Dataset
+- Base de dados do [Enem 2019](https://github.com/alura-cursos/imersao-dados-2-2020/blob/master/MICRODADOS_ENEM_2019_SAMPLE_43278.csv)
 
-[Aula 02](https://www.alura.com.br/imersao-dados/aula02-analises-exploratoria) - Análise Exploratória
+#### Aulas
 
-[Aula 03](https://www.alura.com.br/imersao-dados/aula03-distribuicoes-ciencia-de-dados) - Distribuições e Correlações
+- [Aula 01](https://www.alura.com.br/imersao-dados/aula01-educacao-no-brasil) - Educação no Brasil
+
+- [Aula 02](https://www.alura.com.br/imersao-dados/aula02-analises-exploratoria) - Análise Exploratória
+
+- [Aula 03](https://www.alura.com.br/imersao-dados/aula03-distribuicoes-ciencia-de-dados) - Distribuições e Correlações
 
 #### Autores
 1.   [Grupo Alura](https://www.alura.com.br) - A maior plataforma brasileira de cursos de tecnologia.
@@ -23,4 +30,3 @@ A análise foi efetuada utilizando-se a linguagem de programação **Python** e 
 
 Os dados foram disponibilizados pela Alura e contém cerca de 128 mil registros de inscrições de alunos que realizaram as provas do ENEM 2019.
 
-Clique [Aqui](https://github.com/alura-cursos/imersao-dados-2-2020/blob/master/MICRODADOS_ENEM_2019_SAMPLE_43278.csv) para acessar os dados
