@@ -17,6 +17,8 @@ Aulas realizadas nos dias 19/10/2020 até 23/10/2020
 
 - [Aula 03](https://www.alura.com.br/imersao-dados/aula03-distribuicoes-ciencia-de-dados) - Distribuições e Correlações
 
+- [Aula 04](https://www.alura.com.br/imersao-dados/aula04-ml-machine-learning) - Machine Learning
+
 #### Autores
 1.   [Grupo Alura](https://www.alura.com.br) - A maior plataforma brasileira de cursos de tecnologia.
 2.   [Lucas Araújo](https://www.linkedin.com/in/lucasaraujo0255/)- Entusiasta de Data Science e cursando Ciências da Computação
