@@ -19,6 +19,8 @@ Aulas realizadas nos dias 19/10/2020 até 23/10/2020
 
 - [Aula 04](https://www.alura.com.br/imersao-dados/aula04-ml-machine-learning) - Machine Learning
 
+- [Aula 05](https://www.alura.com.br/imersao-dados/aula05-cross-validation-ml) - Validação do modelo
+
 #### Autores
 1.   [Grupo Alura](https://www.alura.com.br) - A maior plataforma brasileira de cursos de tecnologia.
 2.   [Lucas Araújo](https://www.linkedin.com/in/lucasaraujo0255/)- Entusiasta de Data Science e cursando Ciências da Computação
@@ -31,4 +33,3 @@ Este documento tem o objetivo apresentar um estudo de Data Science oferecido na 
 A análise foi efetuada utilizando-se a linguagem de programação **Python** e suas bibliotecas para análise e processamento de dados **Pandas** e **NumPy**, bem como as bibliotecas **Matplotlib** e **Seaborn** para visualização de dados, além de API´s e outras bibliotecas que serão apresentadas no decorrer do documento.
 
 Os dados foram disponibilizados pela Alura e contém cerca de 128 mil registros de inscrições de alunos que realizaram as provas do ENEM 2019.
-
