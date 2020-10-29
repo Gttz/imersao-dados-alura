@@ -11,15 +11,15 @@ Aulas realizadas nos dias 19/10/2020 até 23/10/2020
 
 #### Aulas
 
-- [Aula 01](https://www.alura.com.br/imersao-dados/aula01-educacao-no-brasil) - Educação no Brasil
+- [Aula 01](https://github.com/Gttz/imersao-dados-alura/blob/main/Imersao-dados-Dia01.ipynb) - Educação no Brasil
 
-- [Aula 02](https://www.alura.com.br/imersao-dados/aula02-analises-exploratoria) - Análise Exploratória
+- [Aula 02](https://github.com/Gttz/imersao-dados-alura/blob/main/Imersao-dados-Dia02.ipynb) - Análise Exploratória
 
-- [Aula 03](https://www.alura.com.br/imersao-dados/aula03-distribuicoes-ciencia-de-dados) - Distribuições e Correlações
+- [Aula 03](https://github.com/Gttz/imersao-dados-alura/blob/main/Imersao-dados-Dia03.ipynb) - Distribuições e Correlações
 
-- [Aula 04](https://www.alura.com.br/imersao-dados/aula04-ml-machine-learning) - Machine Learning
+- [Aula 04](https://github.com/Gttz/imersao-dados-alura/blob/main/Imersao-dados-Dia04.ipynb) - Machine Learning
 
-- [Aula 05](https://www.alura.com.br/imersao-dados/aula05-cross-validation-ml) - Validação do modelo
+- [Aula 05](https://github.com/Gttz/imersao-dados-alura/blob/main/Imersao-dados-Dia05.ipynb) - Validação do modelo
 
 #### Autores
 1.   [Grupo Alura](https://www.alura.com.br) - A maior plataforma brasileira de cursos de tecnologia.
